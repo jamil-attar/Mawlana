@@ -21,5 +21,13 @@
             "price": 316,
             "note": "my third book"
         }
+    ],
+    "persons": [
+        {
+            "firstName": "Jamil",
+            "lastName": "Att",
+            "nationality": "Swedish",
+            "yearsOfBirth": 1985
+        }
     ]
 }
