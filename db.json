@@ -28,6 +28,12 @@
             "lastName": "Att",
             "nationality": "Swedish",
             "yearsOfBirth": 1985
+        },
+        {
+            "firstName": "Riad",
+            "lastName": "Bos",
+            "nationality": "Canadian",
+            "yearsOfBirth": 1992
         }
     ]
 }
