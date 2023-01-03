@@ -6,6 +6,20 @@
             "pages": 159,
             "price": 52.15,
             "note": "my first book"
+        },
+        {
+            "id": 2,
+            "title": "book 2 in lib",
+            "pages": 254,
+            "price": 52.15,
+            "note": "my second book"
+        },
+        {
+            "id": 3,
+            "title": "book 3 in lib",
+            "pages": 99,
+            "price": 316,
+            "note": "my third book"
         }
     ]
 }
