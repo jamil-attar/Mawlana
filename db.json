@@ -1,6 +1,5 @@
 {
-    "books":
-    [
+    "books": [
         {
             "id": 1,
             "title": "book 1 in lib",
@@ -8,4 +7,5 @@
             "price": 52.15,
             "note": "my first book"
         }
-    ]}
+    ]
+}
