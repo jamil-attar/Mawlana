@@ -1,9 +1,11 @@
-[
-    {
-        "id": 1,
-        "title": "book 1 in lib",
-        "pages": 159,
-        "price": 52.15,
-        "note": "my first book"
-    }
-]
+{
+    "books":
+    [
+        {
+            "id": 1,
+            "title": "book 1 in lib",
+            "pages": 159,
+            "price": 52.15,
+            "note": "my first book"
+        }
+    ]}
